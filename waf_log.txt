@@ -1,1 +1,0 @@
-Blocked SQL Injection: select * from users
